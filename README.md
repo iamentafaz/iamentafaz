@@ -3,5 +3,6 @@
 - 💞️ I’m looking to collaborate on JS libraries
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/iamentafaz/)
 
+### Bookmarks
 <!--  daily.dev BOOKMARKS:START -->
 <!--  daily.dev BOOKMARKS:END -->
