@@ -2,7 +2,7 @@ name: daily.dev Bookmarks
 on:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '124 * * * *'
   workflow_dispatch:
 
 jobs:
