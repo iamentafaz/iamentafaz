@@ -41,5 +41,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamentafaz&" alt="iamentafaz" /></p>
 
 
-<!--  daily.dev BOOKMARKS:START -->
-<!--  daily.dev BOOKMARKS:END -->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
