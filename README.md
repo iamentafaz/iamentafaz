@@ -43,4 +43,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Modern React Developer 2022](https://app.daily.dev/posts/sF0BDViNQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=6h8H5vsVJ9a9poTPpFoD0)
+- [State of CSS 2022](https://app.daily.dev/posts/KNo9WXVcS?utm_source=rss&utm_medium=bookmarks&utm_campaign=6h8H5vsVJ9a9poTPpFoD0)
+- [11 Productive Websites for Web Developers](https://app.daily.dev/posts/ccYGZRTVn?utm_source=rss&utm_medium=bookmarks&utm_campaign=6h8H5vsVJ9a9poTPpFoD0)
+- [The Complete Guide to Regular Expressions &lpar;Regex&rpar;](https://app.daily.dev/posts/4wkqhDPAP?utm_source=rss&utm_medium=bookmarks&utm_campaign=6h8H5vsVJ9a9poTPpFoD0)
+- [6 Useful Checklists Every Developer Should Know 📃💯](https://app.daily.dev/posts/6665tiGR3?utm_source=rss&utm_medium=bookmarks&utm_campaign=6h8H5vsVJ9a9poTPpFoD0)
 <!-- BLOG-POST-LIST:END -->
