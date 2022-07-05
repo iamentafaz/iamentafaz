@@ -43,9 +43,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [4 Best New JavaScript ES2022 Features](https://app.daily.dev/posts/TKUdGAAMe?utm_source=rss&utm_medium=bookmarks&utm_campaign=6h8H5vsVJ9a9poTPpFoD0)
 - [Web3 Authentication with Next.js, React, and Moralis](https://app.daily.dev/posts/XAKnUOvmb?utm_source=rss&utm_medium=bookmarks&utm_campaign=6h8H5vsVJ9a9poTPpFoD0)
 - [JavaScript Higher-Order Functions: A Complete Guide](https://app.daily.dev/posts/kY0yljhpM?utm_source=rss&utm_medium=bookmarks&utm_campaign=6h8H5vsVJ9a9poTPpFoD0)
 - [InterviewReady/system-design-resources: These are the best resources for System Design on the Internet](https://app.daily.dev/posts/-gnrpxfwG?utm_source=rss&utm_medium=bookmarks&utm_campaign=6h8H5vsVJ9a9poTPpFoD0)
 - [8 Best Cheatsheets For React Developers](https://app.daily.dev/posts/M-B8Qfa5l?utm_source=rss&utm_medium=bookmarks&utm_campaign=6h8H5vsVJ9a9poTPpFoD0)
-- [The Surprising Truth About Pixels and Accessibility](https://app.daily.dev/posts/KJ6qDeaOU?utm_source=rss&utm_medium=bookmarks&utm_campaign=6h8H5vsVJ9a9poTPpFoD0)
 <!-- BLOG-POST-LIST:END -->
