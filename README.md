@@ -40,12 +40,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamentafaz&" alt="iamentafaz" /></p>
 
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Inside JavaScript Engines, Part 1: Parsing](https://app.daily.dev/posts/TqG0MI2j0?utm_source=rss&utm_medium=bookmarks&utm_campaign=6h8H5vsVJ9a9poTPpFoD0)
-- [4 Best New JavaScript ES2022 Features](https://app.daily.dev/posts/TKUdGAAMe?utm_source=rss&utm_medium=bookmarks&utm_campaign=6h8H5vsVJ9a9poTPpFoD0)
-- [Web3 Authentication with Next.js, React, and Moralis](https://app.daily.dev/posts/XAKnUOvmb?utm_source=rss&utm_medium=bookmarks&utm_campaign=6h8H5vsVJ9a9poTPpFoD0)
-- [JavaScript Higher-Order Functions: A Complete Guide](https://app.daily.dev/posts/kY0yljhpM?utm_source=rss&utm_medium=bookmarks&utm_campaign=6h8H5vsVJ9a9poTPpFoD0)
-- [InterviewReady/system-design-resources: These are the best resources for System Design on the Internet](https://app.daily.dev/posts/-gnrpxfwG?utm_source=rss&utm_medium=bookmarks&utm_campaign=6h8H5vsVJ9a9poTPpFoD0)
-<!-- BLOG-POST-LIST:END -->
