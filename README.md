@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamentafaz" target="blank"><img src="https://img.shields.io/twitter/follow/iamentafaz?logo=twitter&style=for-the-badge" alt="iamentafaz" /></a> </p>
 
-- 🔭 I’m currently working on [Trendlyne web app](https://trendlyne.com/features/)
+- 🔭 I’m currently working on [Trendlyne web app](https://trendlyne.com/features/) and [Starfolio](https://starfolio.trendlyne.com)
 
 - 🌱 I’m currently learning **React, Python and Django**
 
