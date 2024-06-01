@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mir entafaz Ali</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate front-end developer who is keen on building web, hybrid and PWA app.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamentafaz&label=Profile%20views&color=0e75b6&style=flat" alt="iamentafaz" /> </p>
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/iamentafaz" target="blank"><img src="https://img.shields.io/twitter/follow/iamentafaz?logo=twitter&style=for-the-badge" alt="iamentafaz" /></a> </p>
 
-- 🔭 I’m currently working on [Trendlyne](https://trendlyne.com/features/) and [Starfolio](https://starfolio.trendlyne.com) web app
+- 🔭 I’m currently working on [Highlevel](https://www.gohighlevel.com/main-page)
 
-- 🌱 I’m currently learning **NextJS and Django**
+- 🌱 I’m currently learning **NestJS and Vue**
 
 - 💬 Ask me about **Angular, React, Ionic, JavaScript, HTML, CSS, AWS Services, TypeScript,**
 
